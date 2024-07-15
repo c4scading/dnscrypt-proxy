@@ -5,7 +5,6 @@
 [![Build Status](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/releases.yml/badge.svg)](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/releases.yml)
 ![CodeQL scan](https://github.com/DNSCrypt/dnscrypt-proxy/workflows/CodeQL%20scan/badge.svg)
 ![ShiftLeft Scan](https://github.com/DNSCrypt/dnscrypt-proxy/workflows/ShiftLeft%20Scan/badge.svg)
-[![#dnscrypt-proxy:matrix.org](https://img.shields.io/matrix/dnscrypt-proxy:matrix.org.svg?label=DNSCrypt-Proxy%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#dnscrypt-proxy:matrix.org)
 
 ## Overview
 
