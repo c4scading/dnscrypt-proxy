@@ -3,7 +3,7 @@
 [![Financial Contributors on Open Collective](https://opencollective.com/dnscrypt/all/badge.svg?label=financial+contributors)](https://opencollective.com/dnscrypt)
 [![DNSCrypt-Proxy Release](https://img.shields.io/github/release/dnscrypt/dnscrypt-proxy.svg?label=Latest%20Release&style=popout)](https://github.com/dnscrypt/dnscrypt-proxy/releases/latest)
 [![Build Status](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/releases.yml/badge.svg)](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/releases.yml)
-![CodeQL scan](https://github.com/DNSCrypt/dnscrypt-proxy/workflows/CodeQL%20scan/badge.svg)
+[![CodeQL scan](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/DNSCrypt/dnscrypt-proxy/actions/workflows/codeql-analysis.yml)
 ![ShiftLeft Scan](https://github.com/DNSCrypt/dnscrypt-proxy/workflows/ShiftLeft%20Scan/badge.svg)
 
 ## Overview
