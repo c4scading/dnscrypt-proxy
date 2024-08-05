@@ -23,7 +23,7 @@ require (
 	github.com/quic-go/quic-go v0.45.1
 	golang.org/x/crypto v0.24.0
 	golang.org/x/net v0.26.0
-	golang.org/x/sys v0.21.0
+	golang.org/x/sys v0.23.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
 
@@ -46,7 +46,7 @@ require (
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
-	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	google.golang.org/grpc v1.56.3 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 )
